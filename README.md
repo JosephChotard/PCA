@@ -1,0 +1,1 @@
+PCA on Kaggle titanic dataset: for Mathematical modeling and logical reasoning course
